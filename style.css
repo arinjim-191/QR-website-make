@@ -9,6 +9,7 @@ font-family: 'Raleway', sans-serif; */
     padding: 0;
     box-sizing: border-box;
 }
+/* <!-- -----header-section-start----- --> */
 .header-color{
     background-repeat: no-repeat;
     background-color: #CCCCCC;
@@ -24,6 +25,7 @@ font-family: 'Raleway', sans-serif; */
     height: 500px;
    
 }
+/* <!-- -----header-section-end----- --> */
 .title-desction{
     display: flex;
     flex-wrap: wrap;
