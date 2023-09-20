@@ -1,0 +1,23 @@
+*{
+    margin: 0 ;
+    padding: 0;
+
+}
+body{
+    background-color: slategrey;
+}
+.header-logo{
+    display: flex;
+}
+
+.whatapp-scan h2{
+    margin-top: 155px;
+    font-family: 'Raleway', sans-serif;
+}
+.whatapp-scan img{
+
+    
+    width: 250px;
+
+    border-radius: 20px;
+}
