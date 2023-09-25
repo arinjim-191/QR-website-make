@@ -12,8 +12,13 @@ font-family: 'Raleway', sans-serif; */
 
 /* --responsive- start */
 
-    
-}
+    @media screen  and ( max-width:800px){
+        .header-color{
+            width: auto%;
+            height: 150px;
+        }
+    }
+
 
 
 /* --responsive- end */
