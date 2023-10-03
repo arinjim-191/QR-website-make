@@ -9,23 +9,6 @@ font-family: 'Raleway', sans-serif; */
     padding: 0;
     box-sizing: border-box;
 }
-
-/* --responsive- start */
-
-    @media screen  and ( max-width:800px){
-        .header-color{
-            width: auto%;
-            height: 150px;
-        }
-    }
-
-
-
-/* --responsive- end */
-
-
-
-
 /* <!-- -----header-section-start----- --> */
 
 .header-color{
@@ -76,6 +59,11 @@ font-family: 'Raleway', sans-serif; */
 .social-links .contain img{
     width: 40px;
 
+}
+h2{
+    margin-top: 10px;
+    color: #CCCCCC;
+    font-family: 'Raleway', sans-serif;
 }
 
 /* <!-- --------social-media-icon end----- --> */
@@ -159,3 +147,9 @@ font-family: 'Raleway', sans-serif; */
         font-size: 11px;
     }
 }
+
+  
+
+
+
+/* --responsive- end */
